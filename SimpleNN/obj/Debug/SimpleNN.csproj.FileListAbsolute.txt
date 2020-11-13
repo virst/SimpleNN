@@ -1,0 +1,10 @@
+C:\Users\MVi\source\repos\SimpleNN\SimpleNN\bin\Debug\SimpleNN.exe.config
+C:\Users\MVi\source\repos\SimpleNN\SimpleNN\bin\Debug\SimpleNN.exe
+C:\Users\MVi\source\repos\SimpleNN\SimpleNN\bin\Debug\SimpleNN.pdb
+C:\Users\MVi\source\repos\SimpleNN\SimpleNN\obj\Debug\SimpleNN.csprojAssemblyReference.cache
+C:\Users\MVi\source\repos\SimpleNN\SimpleNN\obj\Debug\SimpleNN.Form1.resources
+C:\Users\MVi\source\repos\SimpleNN\SimpleNN\obj\Debug\SimpleNN.Properties.Resources.resources
+C:\Users\MVi\source\repos\SimpleNN\SimpleNN\obj\Debug\SimpleNN.csproj.GenerateResource.cache
+C:\Users\MVi\source\repos\SimpleNN\SimpleNN\obj\Debug\SimpleNN.csproj.CoreCompileInputs.cache
+C:\Users\MVi\source\repos\SimpleNN\SimpleNN\obj\Debug\SimpleNN.exe
+C:\Users\MVi\source\repos\SimpleNN\SimpleNN\obj\Debug\SimpleNN.pdb
